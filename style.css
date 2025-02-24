@@ -1,0 +1,15 @@
+*{
+    user-select: all;
+}
+
+input{
+    border: none;
+    outline: none;
+    background: none;
+}
+.inputbox{
+    width: 200px;
+    height: 48px;
+    border: 1px solid gray;
+
+}
